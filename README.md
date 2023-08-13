@@ -1,7 +1,6 @@
 # Analysis-of-telecom-Customer-Churn
  "An in-depth exploration of telecom customer churn, offering data-driven insights and predictive models for effective mitigation."
 
-# Analysis of Telecom Customer Churn
 
 This repository contains a comprehensive analysis of customer churn within the telecommunications industry. Customer churn, the phenomenon of customers discontinuing services, is a critical challenge that businesses face. This project aims to provide data-driven insights and predictive models to understand, anticipate, and address customer churn effectively.
 
@@ -53,10 +52,10 @@ Interactive visualizations, graphs, and charts are provided to facilitate a bett
 
 ## Usage
 
-- Clone this repository: `git clone https://github.com/your-username/telecom-churn-analysis.git`
-- Navigate to the project directory: `cd telecom-churn-analysis`
-- Install dependencies: `pip install -r requirements.txt`
-- Run the analysis: `python analyze_churn.py`
+- Clone this repository
+- Navigate to the project directory
+- Install dependencies
+- Run the analysis:
 
 ## Contributions
 
